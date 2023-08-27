@@ -20,7 +20,7 @@ This is a basic web-based calculator project implemented using HTML, CSS, and Ja
 
 1. Clone the repository or download the ZIP file:
    ```
-   git clone https://github.com/Finally-Kwaku/simple-calculator.git
+   git clone git@github.com:Finally-Kwaku/Simple_Calculator.git
    ```
 
 2. Navigate to the project directory:
