@@ -1,4 +1,3 @@
-```markdown
 # Simple Calculator Project
 
 This is a basic web-based calculator project implemented using HTML, CSS, and JavaScript. The calculator allows users to perform simple arithmetic calculations.
