@@ -1,5 +1,3 @@
-Sure, here's the README written in Markdown language:
-
 ```markdown
 # Simple Calculator Project
 
@@ -53,4 +51,3 @@ Contributions are welcome! If you find any issues or want to enhance the calcula
 
 - Kwaku Gyamfi
 - Wilbert Boadzo
-
