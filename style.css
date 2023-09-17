@@ -6,7 +6,11 @@
 
 body {
   min-height: 100vh;
-  background: #efeff2;
+  background-image: url("calc-backg-image.jpg"); 
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -36,15 +40,14 @@ form input {
   pointer-events: none;
 }
 
-.buttons{
+.buttons {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
   padding: 20px;
-
 }
 
-button{
+button {
   flex: 0 0 22%;
   margin: 5px 0;
   border: 1px solid #000;
@@ -61,15 +64,15 @@ button{
   color: white;
 }
 
-.btn-grey{
+.btn-grey {
   background: rgb(224, 224, 224);
   color: black;
 }
 
-.btn-equal{
+.btn-equal {
   background: green;
 }
 
-.btn-clear{
+.btn-clear {
   background: red;
 }
